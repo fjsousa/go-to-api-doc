@@ -2,9 +2,8 @@
 
 #Specs
 
-##Swagger
-
-##RAML
+- [Swagger](http://editor.swagger.io/#/)
+- [RAML](http://raml.org/spec.html)
 
 #Resources
 
