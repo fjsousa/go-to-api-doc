@@ -2,8 +2,12 @@
 
 #Specs
 
-- [Swagger](http://editor.swagger.io/#/)
-- [RAML](http://raml.org/spec.html)
+- [Online Editor based on the spec](http://editor.swagger.io/#/)
+
+## RAML
+- [SPEC](http://raml.org/spec.html)
+- [Parser](https://github.com/raml-org/raml-js-parser)
+- [Client generator](https://github.com/mulesoft/raml-client-generator)
 
 #Resources
 
